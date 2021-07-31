@@ -1,1 +1,1 @@
-# CapureImage
+# CaptureImage
